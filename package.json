@@ -1,0 +1,26 @@
+{
+  "name": "11-http-and-rest",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "superagent": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node www-server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaityHeath/11-http-and-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaityHeath/11-http-and-rest/issues"
+  },
+  "homepage": "https://github.com/CaityHeath/11-http-and-rest#readme"
+}
