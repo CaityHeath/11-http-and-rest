@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pants",
+      "display_names": "Pants",
+      "description": "Womens Pants"
+    },
+    {
+      "name": "Shirts",
+      "display_name": "Shirts",
+      "description": "Womens Shirts",
+      "id": 2
+    },
+    {
+      "name": "Shirts",
+      "display_name": "Shirts",
+      "description": "Womens shirts",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "Pants",
+      "name": "juicy",
+      "display_name": "Juicy Couture velor track suit",
+      "description": "Hot pink velor pants just like the ones Paris wears"
+    },
+    {
+      "category": "Shirts",
+      "name": "Von-Dutch",
+      "display_name": "Von-Dutch",
+      "description": "The Von-Dutch shirt made famous by Paris Hilton",
+      "id": 3
+    }
+  ]
+}
